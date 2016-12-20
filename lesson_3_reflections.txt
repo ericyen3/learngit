@@ -1,0 +1,1 @@
+Hi, Just wondering if I can enable SMB client on my home network? It looks like by default, Google issued Windows laptops have SMB disabled on any network. At home, I have a NAS that I use for personal stuff, I would like to read
